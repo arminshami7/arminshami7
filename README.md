@@ -12,7 +12,7 @@ I'm a passionate Front-End Developer based in [Your City/Country], with a strong
 -   🌱 **I’m currently learning:** Advanced concepts in the React ecosystem and professional development tools.
 -   💼 **I’m looking for:** Freelance opportunities and exciting projects to contribute to.
 -   📫 **How to reach me:** You can reach out to me via [Your Email Address] or on LinkedIn!
--   🌐 **Check out my portfolio:** [armin-portfolioo.netlify.app](https://armin-portfolioo.netlify.app)
+-   🌐 **Check out my portfolio:** [armin-portfolioo.netlify.app](https://armin-portfolioo.netlify.app/)
 
 ---
 
