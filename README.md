@@ -4,7 +4,7 @@
   <img width="1881" height="1062" alt="Image" src="https://github.com/user-attachments/assets/2442d58f-25ec-436c-8d11-d4a63f21aba2" />
 </a>
 
-I'm a passionate Front-End Developer based in [Your City/Country], with a strong focus on building modern, responsive, and user-friendly web applications with React.
+I'm a passionate Front-End Developer , with a strong focus on building modern, responsive, and user-friendly web applications with React.
 
 ---
 
